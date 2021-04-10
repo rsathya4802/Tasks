@@ -30,9 +30,9 @@ To Train run the below command
 ### Important Files 
 
 1. model.py - Implementation of Model Architecture
-2. logs - Contains carried out experiments
+2. logs ( downloaded from drive) - Contains carried out experiments
 3. helper.py - Functions needed for training and testing
-4. part1_model_tb - Contains Model Checkpoints 
+4. part1_model_tb ( downloaded from drive) - Contains Model Checkpoints 
 
 
 ### Report
