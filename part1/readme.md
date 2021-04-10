@@ -1,5 +1,7 @@
 # Part-1
 
+## Note
+
 1. Before proceeding go to this link: [This link](https://drive.google.com/drive/folders/1aFU58z7OVsCA0MTFPNAzCEv-gxvKRcYf?usp=sharing)
 
 2. Then download the file named **important_1.zip**
